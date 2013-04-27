@@ -24,3 +24,6 @@ The most work was done by the http://www.wowhead.com/ guys they provide the mode
 
 ### Usage
 To get started and test is everything is set up correctly you can use the premade standalone JFrame with the rendering context `Util.showModelViewer(null)` or simply use `ModelViewerFrame.main(String[] args)`.
+
+### Screenshot
+![alt text](http://i.imgur.com/N7fYxVP.png "jModelViewer")
