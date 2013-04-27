@@ -14,7 +14,7 @@ The most work was done by the http://www.wowhead.com/ guys they provide the mode
 
 ### Setup
 1. Download the source
-2. Use the downloads links below and download the libarys
+2. Use the download links below and download the libarys
 3. Create a project, include libaries and set the run parameter `-Djava.library.path=$REPLACE_ME_DIR_TO_NATIVES$`. For example if you put the native libaries into the `native` directory the parameter would be `-Djava.library.path=native`
 4. Done.
 
